@@ -1,4 +1,4 @@
-import { observe } from "./observe";
+import { observe } from "./observe/index";
 
 export function initState(vm) {
   // vue 的数据来源，props
